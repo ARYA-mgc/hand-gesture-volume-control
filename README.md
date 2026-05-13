@@ -4,15 +4,7 @@ Control your computer's system volume using hand gestures — no keyboard, no mo
 
 Built with **Python**, **OpenCV**, and **MediaPipe**.
 
----
 
-## 📸 Demo
-
-> Pinch your **thumb** and **index finger** together to lower the volume.  
-> Spread them apart to raise the volume.  
-> The on-screen bar updates in real-time!
-
----
 
 ## 🚀 Features
 
